@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+<!--- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
 - 💬 Ask me about **Java, Python, PHP**
 
