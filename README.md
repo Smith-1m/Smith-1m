@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap" />
   </a>
 </p>
 
