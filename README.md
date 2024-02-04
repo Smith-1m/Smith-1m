@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://github.com/Smith-1m/Smith-1m/blob/main/readme1.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+<!--- 🔭 I’m currently working on **UA IT(JKH IT)**-->
 
 - 🌱 I’m currently learning **Devops**
 
