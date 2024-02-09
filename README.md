@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/somith-mao-5292472b1/)
 
 - ⚡ Fun fact **I think I'm funny**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,7 +77,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
 </p>
 <br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
